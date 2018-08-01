@@ -77,3 +77,9 @@ Cons
   - Backups are full snapshots only (no incremental options)
   - You can only restore to a new DynamoDB table
   - No ability to backup to a separate account (Essential for Disaster Recovery in case of security breach)
+
+
+# Todo
+
+  - Attach deny policy instead of inline
+  - Allow user to define table name
